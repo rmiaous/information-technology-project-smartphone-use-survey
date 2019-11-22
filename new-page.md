@@ -2,11 +2,11 @@
 layout: page
 title: Markdown-based page example
 subtitle: Subtitle goes here
-bigimg: /img/path.jpg
+bigimg: /img/phoneapp-700x467.jpg
 ---
 
 ## Here is where we can insert an image:
-phoneapp-700x467.jpg
+
 ![GW Data Science logo](/img/gwdsp.png)
 
 ## How about a link?
