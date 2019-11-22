@@ -6,7 +6,7 @@ bigimg: /img/path.jpg
 ---
 
 ## Here is where we can insert an image:
-
+phoneapp-700x467.jpg
 ![GW Data Science logo](/img/gwdsp.png)
 
 ## How about a link?
