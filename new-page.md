@@ -4,6 +4,8 @@ title: Markdown-based page example
 subtitle: Subtitle goes here
 bigimg: /img/path.jpg
 ---
+{% include activities.html %}
+
 
 ## Here is where we can insert an image:
 
