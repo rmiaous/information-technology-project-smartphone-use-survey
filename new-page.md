@@ -6,7 +6,7 @@ bigimg: /img/path.jpg
 ---
 
 ## Here is where we can insert an image:
-{% include Smartphone Use of American College Students Survey.html %}
+
 ![GW Data Science logo](/img/gwdsp.png)
 
 ## How about a link?
@@ -28,7 +28,7 @@ We can do it with a line of markdown that looks like this (without the slashes -
 \{\% include jupyter-basic_bar.html \%\}
 ```
 {% include jupyter-basic_bar.html %}
-
+{% include Smartphone Use of American College Students Survey.html %}
 Attempting to embed an RShiny app:
 
 <div class="iframe_container">
