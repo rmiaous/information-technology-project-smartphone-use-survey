@@ -4,11 +4,9 @@ title: Markdown-based page example
 subtitle: Subtitle goes here
 bigimg: /img/path.jpg
 ---
-{% include activities.html %}
-
 
 ## Here is where we can insert an image:
-
+{% include Smartphone Use of American College Students Survey.html %}
 ![GW Data Science logo](/img/gwdsp.png)
 
 ## How about a link?
