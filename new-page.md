@@ -12,7 +12,7 @@ bigimg: /img/path.jpg
 ## How about a link?
 
 And of course some text, and maybe [a link to https://datasci.columbian.gwu.edu/](https://datasci.columbian.gwu.edu/)
-
+And of course some text, and maybe [a link to https://datasci.columbian.gwu.edu/](https://docs.google.com/forms/d/1liDpC2FyANL_b2DLsPWxjZHhf7WDeWXQCPBVadgS09E/prefill)
 ## Or some code?
 
 Some code might go here:
@@ -28,7 +28,7 @@ We can do it with a line of markdown that looks like this (without the slashes -
 \{\% include jupyter-basic_bar.html \%\}
 ```
 {% include jupyter-basic_bar.html %}
-{% include Smartphone Use of American College Students Survey.html %}
+
 Attempting to embed an RShiny app:
 
 <div class="iframe_container">
