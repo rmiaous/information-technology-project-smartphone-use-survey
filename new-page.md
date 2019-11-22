@@ -12,7 +12,7 @@ bigimg: /img/path.jpg
 ## How about a link?
 
 And of course some text, and maybe [a link to https://datasci.columbian.gwu.edu/](https://datasci.columbian.gwu.edu/)
-And of course some text, and maybe [a link to https://datasci.columbian.gwu.edu/](https://docs.google.com/forms/d/1liDpC2FyANL_b2DLsPWxjZHhf7WDeWXQCPBVadgS09E/edit?usp=sharing)
+And of course some text, and maybe [a link to https://datasci.columbian.gwu.edu/](https://docs.google.com/forms/d/e/1FAIpQLSegeFmviIVH3ZZi-9TAtUKegmZXJ44rviGKiFQFsU8p1eNmAA/viewform?usp=sf_link)
 ## Or some code?
 
 Some code might go here:
