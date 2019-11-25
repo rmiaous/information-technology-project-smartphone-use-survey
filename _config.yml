@@ -29,13 +29,10 @@ navbar-links:
   Home: ""
   Collect Data:
     - Survey Questions: "new-page"
-    - Getting started: "getstarted"
-    - Other sites that use this template: "featured-users"
-    - External link to Beautiful Jekyll Template page: "https://github.com/daattali/beautiful-jekyll#readme"
   Process Database:
+    - Example of an HTML page: "html-example"
   Analysis Data:
     - Example of a Markdown page: "md-example"
-    - Example of an HTML page: "html-example"
   About me: "https://www.linkedin.com/school/george-washington-university/about/"
 
 # --- Footer options --- #
