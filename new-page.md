@@ -1,4 +1,9 @@
-
+---
+layout: page
+title: Markdown-based page example
+subtitle: Subtitle goes here
+bigimg: /img/path.jpg
+---
 
 ## Here is where we can insert an image:
 
