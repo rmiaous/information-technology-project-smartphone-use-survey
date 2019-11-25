@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Analysis Data page example
-subtitle: Subtitle goes here
+title: Analysis Data
+subtitle: Charts and Diagrams
 bigimg: /img/start.jpg
 ---
 
