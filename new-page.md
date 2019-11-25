@@ -7,7 +7,7 @@ bigimg: /img/path.jpg
 
 ## Here is where we can insert an image:
 
-![Smartphone Use Survey Logo](/img/phoneapp-700x467.jpg)
+![Smartphone Use Survey Logo](/img/banner_bg.jpg)
 
 ## How about a link?
 
