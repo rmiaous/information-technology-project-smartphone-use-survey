@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Markdown-based page example
-subtitle: Subtitle goes here
+title: Survey Questions
+subtitle: Collect Data
 bigimg: /img/path.jpg
 ---
 
