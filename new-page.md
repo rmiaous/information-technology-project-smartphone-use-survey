@@ -2,7 +2,7 @@
 layout: page
 title: Markdown-based page example
 subtitle: Subtitle goes here
-bigimg: /img/path.jpg
+bigimg: /img/banner_bg.jpg
 ---
 
 ## Here is where we can insert an image:
