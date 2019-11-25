@@ -42,8 +42,8 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Your name goes here
-  email: "youremail@gmail.com"
+  name: Birendra Kunwar, Joseph Mangazie, Rui Miao
+  email: "rmiaous@gmail.com"
   facebook: yourfacebook
   github: yourgithub
   twitter: yourtwitter
