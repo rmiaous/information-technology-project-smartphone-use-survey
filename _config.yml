@@ -30,9 +30,9 @@ navbar-links:
   Collect Data:
     - Survey Questions: "new-page"
   Process Database:
-    - Example of an HTML page: "html-example"
+    - Database: "getstarted"
   Analysis Data:
-    - Example of a Markdown page: "md-example"
+    - Charts and Diagrams: "md-example"
   About me: "https://www.linkedin.com/school/george-washington-university/about/"
 
 # --- Footer options --- #
