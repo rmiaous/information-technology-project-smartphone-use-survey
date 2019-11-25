@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Survey Questions
-subtitle: Collect Data
+subtitle:
 bigimg: /img/path.jpg
 ---
 
