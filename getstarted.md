@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Getting started
-subtitle: How to use Beautiful Jekyll
+title: Process Database
+subtitle: 
 bigimg: /img/path.jpg
 ---
 
