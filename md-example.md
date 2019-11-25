@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Analysis Data
-subtitle: Charts and Diagrams
+subtitle:
 bigimg: /img/path.jpg
 ---
 
