@@ -7,7 +7,7 @@ bigimg: /img/start.jpg
 
 ## Here is where we can insert an image:
 
-![GW Data Science logo](/img/gwdsp.png)
+![Smartphone Use Survey logo](/img/921581361.jpeg)
 
 ## How about a link?
 
