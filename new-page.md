@@ -5,13 +5,7 @@ subtitle:
 bigimg: /img/path.jpg
 ---
 
-## Here is where we can insert an image:
-
-![Smartphone Use Survey Logo](/img/banner_bg.jpg)
-
-## How about a link?
-
-Survey Question [a link to https://forms.gle/FG96YjPS3AR9i6TXA/](https://forms.gle/FG96YjPS3AR9i6TXA)
+Start Survey Question [a link to https://forms.gle/FG96YjPS3AR9i6TXA/](https://forms.gle/FG96YjPS3AR9i6TXA)
 ## Or some code?
 
 Some code might go here:
