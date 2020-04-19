@@ -29,9 +29,9 @@ navbar-links:
   Home: ""
   Survey Questions:
     - Survey Questions: "new-page"
-  Process Database:
+  Survey Database:
     - Database: "getstarted"
-  Analysis Data:
+  Data Analysis: 
     - Charts and Diagrams: "md-example"
   About US: "https://www.cps.gwu.edu/information-technology-bachelors-degree-completion-program"
 
@@ -40,7 +40,7 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Birendra Kunwar, Joseph Mangazie, Rui Miao
+  name: Rui Miao, Birendra Kunwar, Joseph Mangazie 
   facebook: "https://rmiaous.github.io/smartphone-use-survey/"
   twitter: "https://rmiaous.github.io/smartphone-use-survey/"
   email: "rmiaous@gmail.com"
